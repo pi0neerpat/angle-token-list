@@ -4130,6 +4130,15 @@
       }
     },
     "42161": {
+      "0x221A0f68770658C15B525d0F89F5da2baAB5f321": {
+        "address": "0x221A0f68770658C15B525d0F89F5da2baAB5f321",
+        "name": "Open Dollar",
+        "decimals": 18,
+        "symbol": "OD",
+        "hasPermit": true,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/od.svg"
+      },
       "0x000D636bD52BFc1B3a699165Ef5aa340BEA8939c": {
         "address": "0x000D636bD52BFc1B3a699165Ef5aa340BEA8939c",
         "name": "Open Dollar Governance",
